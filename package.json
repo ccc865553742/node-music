@@ -29,5 +29,7 @@
     "qqmuis",
     "express"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "proxy": "http://183.6.183.210"
+
 }
