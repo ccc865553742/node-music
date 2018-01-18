@@ -11,6 +11,8 @@
     "test": "node test.js"
   },
   "dependencies": {
+    "axios": "^0.17.1",
+    "body-parser": "^1.18.2",
     "ejs": "^2.5.6",
     "express": "^4.15.2"
   },
@@ -20,11 +22,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-getting-started"
+    "url": "https://git.heroku.com/arcane-taiga-56328.git"
   },
   "keywords": [
     "node",
-    "heroku",
+    "qqmuis",
     "express"
   ],
   "license": "MIT"
