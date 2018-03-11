@@ -561,8 +561,8 @@ __WEBPACK_IMPORTED_MODULE_0_vue__["a" /* default */].use(__WEBPACK_IMPORTED_MODU
   // { path: '/Discovery', component: Discovery },
   { path: '/medium', component: __WEBPACK_IMPORTED_MODULE_2__components_my_medium_my_medium___default.a }, { path: '/Referralsettings:id', component: __WEBPACK_IMPORTED_MODULE_11__components_Referralsettings_Referralsettings___default.a }, { path: '/Rcommend', component: __WEBPACK_IMPORTED_MODULE_5__components_recommend_recommend___default.a }, {
     path: '/Setting',
-    component: __WEBPACK_IMPORTED_MODULE_8__components_setting_setting___default.a
-    // redirect: '/RighttouRecommend',
+    component: __WEBPACK_IMPORTED_MODULE_8__components_setting_setting___default.a,
+    redirect: '/medium'
   }, { path: '/Me', component: __WEBPACK_IMPORTED_MODULE_7__components_me_me___default.a }, { path: '/ReviseUserInfo', component: __WEBPACK_IMPORTED_MODULE_10__components_reviseUserInfo_reviseuserinfo___default.a }, { path: '/BrandDealtWith', component: __WEBPACK_IMPORTED_MODULE_4__components_brand_dealt_with_brand_dealt_with___default.a }, { path: '/Friends', component: __WEBPACK_IMPORTED_MODULE_3__components_friends_friends___default.a }, { path: '/Discovery', component: __WEBPACK_IMPORTED_MODULE_6__components_discovery_discovery___default.a }, { path: '/UserProfile', component: __WEBPACK_IMPORTED_MODULE_9__components_user_profile_user_profile___default.a }, { path: '/RighttouRecommend', component: __WEBPACK_IMPORTED_MODULE_12__components_RighttouRecommend_RighttouRecommend___default.a }, { path: '*', redirect: '/' }]
 }));
 
@@ -6860,4 +6860,4 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 
 /***/ })
 ]),[165]);
-//# sourceMappingURL=app.fe6ae09fbabe35595f19.js.map
+//# sourceMappingURL=app.540e0d51c8c91c1bc1ec.js.map
