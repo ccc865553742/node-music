@@ -1,0 +1,124 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol, ul {
+  list-style: none;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.weui-actionsheet__cell{
+  width: 7.5rem;
+  /*height: 1.28rem;*/
+  font-size: .36rem;
+  padding:.2rem 0;
+  text-align: center;
+  color:#1c2429;
+  letter-spacing:0.003rem;
+}
+
+.weui-mask {
+  background: rgba(37,45,54, 0.44);
+}
+
+
+/*.weui-cell_switch{*/
+  /*display: flex;*/
+/*}*/
+
+
+.weui-cell__ft{
+  display: flex;
+  align-items:center;
+  height: 100%;
+}
+
+
+.weui-switch {
+  width:1.03rem;
+  height:.63rem;
+  border-radius: .4rem;
+}
+
+.weui-switch:before {
+  width:1.03rem;
+  height: .65rem;
+  border-radius: .4rem;
+}
+
+.weui-switch:after {
+  height:.58rem;
+  width: .6rem;
+  border-radius:.4rem;
+}
+
+.weui-switch:checked:after {
+  transform: translateX(.4rem);
+}
+
+::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+}
+
+
+
+/*设置IOS页面长按不可复制粘贴，但是IOS上出现input、textarea不能输入，因此将使用-webkit-user-select:auto;*/
+*{
+  -webkit-touch-callout:none; /*系统默认菜单被禁用*/
+  -webkit-user-select:none; /*webkit浏览器*/
+  -khtml-user-select:none; /*早期浏览器*/
+  -moz-user-select:none;/*火狐*/
+  -ms-user-select:none; /*IE10*/
+  user-select:none;
+}
+input,textarea {
+  -webkit-user-select:auto; /*webkit浏览器*/
+  margin: 0px;
+  padding: 0px;
+  outline: none;
+}
+
+
+
+

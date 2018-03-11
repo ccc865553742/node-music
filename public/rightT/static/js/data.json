@@ -1,0 +1,238 @@
+{
+  "friendData": [
+    {
+      "avatar": "http://192.168.88.67:8080/static/image/user5@2x.png",
+      "name": "Loretta Hayes",
+      "desc": "申请加为好友",
+      "isFriend": false,
+      "showRelationship": true,
+      "isOnline": true
+    },
+    {
+      "avatar": "http://192.168.88.67:8080/static/image/user4@2x.png",
+      "name": "Danny Fisher",
+      "desc": "Add Friend",
+      "isFriend": false,
+      "showRelationship": true,
+      "isOnline": false
+    },
+    {
+      "avatar": "http://192.168.88.67:8080/static/image/user2@2x.png",
+      "name": "Beatrice Holland",
+      "desc": "Liked 2 Photos",
+      "isFriend": false,
+      "isOnline": true
+    },
+    {
+      "avatar": "http://192.168.88.67:8080/static/image/user6@2x.png",
+      "name": "Eleanor Summers",
+      "desc": "Commented Your Post",
+      "isFriend": false,
+      "isOnline": false
+    },
+    {
+      "avatar": "http://192.168.88.67:8080/static/image/user8@2x.png",
+      "name": "Frank Robertson",
+      "desc": "Add Friend",
+      "isFriend": true,
+      "showRelationship": true,
+      "isOnline": true
+    },
+    {
+      "avatar": "http://192.168.88.67:8080/static/image/user8@2x.png",
+      "name": "Frank Robertson",
+      "desc": "Add Friend",
+      "isFriend": true,
+      "showRelationship": true,
+      "isOnline": true
+    },
+    {
+      "avatar": "http://192.168.88.67:8080/static/image/user9@2x.png",
+      "name": "Teresa McKenzie",
+      "desc": "Add Friend",
+      "isFriend": false,
+      "showRelationship": true,
+      "isOnline": true
+    },
+    {
+      "avatar": "http://192.168.88.67:8080/static/image/user5@2x.png",
+      "name": "Loretta Hayes",
+      "desc": "申请加为好友",
+      "isFriend": false,
+      "showRelationship": true,
+      "isOnline": true
+    },
+    {
+      "avatar": "http://192.168.88.67:8080/static/image/user4@2x.png",
+      "name": "Danny Fisher",
+      "desc": "Add Friend",
+      "isFriend": false,
+      "showRelationship": true,
+      "isOnline": false
+    },
+    {
+      "avatar": "http://192.168.88.67:8080/static/image/user2@2x.png",
+      "name": "Beatrice Holland",
+      "desc": "Liked 2 Photos",
+      "isFriend": false,
+      "isOnline": true
+    }
+  ],
+  "mediumInviteData": [
+    {
+      "avatar": "http://192.168.88.67:8080/static/image/user10@2x.png",
+      "name": "Blanche Mann",
+      "desc": "How to order that tools, nothing ...",
+      "showChecked": true,
+      "isOnline": true
+    },
+    {
+      "avatar": "http://192.168.88.67:8080/static/image/user11@2x.png",
+      "name": "Harriett Salazar",
+      "desc": "共100次访问 赞赏11次 收藏7次",
+      "showChecked": true,
+      "isOnline": false
+    },
+    {
+      "avatar": "http://192.168.88.67:8080/static/image/user1@2x.png",
+      "name": "Calvin Shelton",
+      "desc": "What about day trip from Moscow?",
+      "showChecked": true,
+      "isOnline": true
+    },
+    {
+      "avatar": "http://192.168.88.67:8080/static/image/user7@2x.png",
+      "name": "Margaret Wong",
+      "desc": "Check me out too if you like m …",
+      "showChecked": true,
+      "isOnline": true
+    }
+  ],
+  "mediumGpData": [
+    {
+      "avatar": "http://192.168.88.67:8080/static/image/user2@2x.png",
+      "name": "Christian Carson",
+      "desc": "I really want info on how to be …",
+      "showOption": true,
+      "isOnline": true
+    },
+    {
+      "avatar": "http://192.168.88.67:8080/static/image/user11@2x.png",
+      "name": "Marian Wilkerson",
+      "desc": "Lebron teaching him how to ge…",
+      "showOption": true,
+      "isOnline": true
+    },
+    {
+      "avatar": "http://192.168.88.67:8080/static/image/user1@2x.png",
+      "name": "Calvin Shelton",
+      "desc": "What about day trip from Moscow?",
+      "showOption": true,
+      "isOnline": false
+    },
+    {
+      "avatar": "http://192.168.88.67:8080/static/image/user7@2x.png",
+      "name": "Margaret Wong",
+      "desc": "Check me out too if you like m …",
+      "showOption": true,
+      "isOnline": false
+    }
+  ],
+  "recommendApplyData": [
+    {
+      "avatar": "http://192.168.88.67:8080/static/image/user2@2x.png",
+      "name": "Margaret Wong",
+      "desc": "等待完成录音访谈",
+      "showChecked": true,
+      "isOnline": true
+    },
+    {
+      "avatar": "http://192.168.88.67:8080/static/image/user11@2x.png",
+      "name": "Calvin Shelton",
+      "desc": "What about day trip from Moscow?",
+      "showChecked": true,
+      "isOnline": true
+    }
+  ],
+  "recommendListData": [
+    {
+      "avatar": "http://192.168.88.67:8080/static/image/user2@2x.png",
+      "name": "Ranx",
+      "desc": "共100次访问 赞赏11次 共计￥288",
+      "showOption": true,
+      "isOnline": true
+    },
+    {
+      "avatar": "http://192.168.88.67:8080/static/image/user1@2x.png",
+      "name": "Marian Wilkerson",
+      "desc": "Lebron teaching him how to ge…",
+      "showOption": true,
+      "isOnline": false
+    },
+    {
+      "avatar": "http://192.168.88.67:8080/static/image/user5@2x.png",
+      "name": "Christian Carson",
+      "desc": "I really want info on how to be …",
+      "showOption": true,
+      "isOnline": true
+    }
+  ],
+  "discoveryData": [
+    {
+      "name": "莉莉安",
+      "age": 22,
+      "avatar":"static/image/Recommender1@2x.png",
+      "address": "北京",
+      "tags": [
+        "IT行业",
+        "行政"
+      ],
+      "matchmaker": {
+        "avatar":  "static/image/matchmaker1@2x.png"  ,
+        "time": 55
+      }
+    },
+    {
+      "name": "莉莉周",
+      "age": 22,
+      "avatar":"static/image/Recommender2@2x.png",
+      "address": "北京",
+      "tags": [
+        "IT行业",
+        "行政"
+      ],
+      "matchmaker": {
+        "avatar":  "static/image/matchmaker2@2x.png",
+        "time": 55
+      }
+    },
+    {
+      "name": "莉莉西",
+      "age": 21,
+      "avatar": "static/image/Recommender1@2x.png",
+      "address": "北京",
+      "tags": [
+        "IT行业",
+        "行政"
+      ],
+      "matchmaker": {
+        "avatar": "static/image/matchmaker1@2x.png",
+        "time": 55
+      }
+    },
+    {
+      "name": "丽丽",
+      "age": 27,
+      "avatar": "static/image/Recommender2@2x.png",
+      "address": "山东",
+      "tags": [
+        "IT行业",
+        "行政"
+      ],
+      "matchmaker": {
+        "avatar": "static/image/matchmaker2@2x.png",
+        "time": 50
+      }
+    }
+  ]
+}
