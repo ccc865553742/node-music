@@ -65,7 +65,7 @@ module.exports = __webpack_require__.p + "static/img/demo@2x.92a3335.png";
 module.exports = {
 	"friendData": [
 		{
-			"avatar": "http://192.168.88.67:8080/static/image/user5@2x.png",
+			"avatar": "static/image/user5@2x.png",
 			"name": "Loretta Hayes",
 			"desc": "申请加为好友",
 			"isFriend": false,
@@ -73,7 +73,7 @@ module.exports = {
 			"isOnline": true
 		},
 		{
-			"avatar": "http://192.168.88.67:8080/static/image/user4@2x.png",
+			"avatar": "static/image/user4@2x.png",
 			"name": "Danny Fisher",
 			"desc": "Add Friend",
 			"isFriend": false,
@@ -81,21 +81,21 @@ module.exports = {
 			"isOnline": false
 		},
 		{
-			"avatar": "http://192.168.88.67:8080/static/image/user2@2x.png",
+			"avatar": "static/image/user2@2x.png",
 			"name": "Beatrice Holland",
 			"desc": "Liked 2 Photos",
 			"isFriend": false,
 			"isOnline": true
 		},
 		{
-			"avatar": "http://192.168.88.67:8080/static/image/user6@2x.png",
+			"avatar": "static/image/user6@2x.png",
 			"name": "Eleanor Summers",
 			"desc": "Commented Your Post",
 			"isFriend": false,
 			"isOnline": false
 		},
 		{
-			"avatar": "http://192.168.88.67:8080/static/image/user8@2x.png",
+			"avatar": "static/image/user8@2x.png",
 			"name": "Frank Robertson",
 			"desc": "Add Friend",
 			"isFriend": true,
@@ -103,7 +103,7 @@ module.exports = {
 			"isOnline": true
 		},
 		{
-			"avatar": "http://192.168.88.67:8080/static/image/user8@2x.png",
+			"avatar": "static/image/user8@2x.png",
 			"name": "Frank Robertson",
 			"desc": "Add Friend",
 			"isFriend": true,
@@ -111,7 +111,7 @@ module.exports = {
 			"isOnline": true
 		},
 		{
-			"avatar": "http://192.168.88.67:8080/static/image/user9@2x.png",
+			"avatar": "static/image/user9@2x.png",
 			"name": "Teresa McKenzie",
 			"desc": "Add Friend",
 			"isFriend": false,
@@ -119,7 +119,7 @@ module.exports = {
 			"isOnline": true
 		},
 		{
-			"avatar": "http://192.168.88.67:8080/static/image/user5@2x.png",
+			"avatar": "static/image/user5@2x.png",
 			"name": "Loretta Hayes",
 			"desc": "申请加为好友",
 			"isFriend": false,
@@ -127,7 +127,7 @@ module.exports = {
 			"isOnline": true
 		},
 		{
-			"avatar": "http://192.168.88.67:8080/static/image/user4@2x.png",
+			"avatar": "static/image/user4@2x.png",
 			"name": "Danny Fisher",
 			"desc": "Add Friend",
 			"isFriend": false,
@@ -135,7 +135,7 @@ module.exports = {
 			"isOnline": false
 		},
 		{
-			"avatar": "http://192.168.88.67:8080/static/image/user2@2x.png",
+			"avatar": "static/image/user2@2x.png",
 			"name": "Beatrice Holland",
 			"desc": "Liked 2 Photos",
 			"isFriend": false,
@@ -144,28 +144,28 @@ module.exports = {
 	],
 	"mediumInviteData": [
 		{
-			"avatar": "http://192.168.88.67:8080/static/image/user10@2x.png",
+			"avatar": "static/image/user10@2x.png",
 			"name": "Blanche Mann",
 			"desc": "How to order that tools, nothing ...",
 			"showChecked": true,
 			"isOnline": true
 		},
 		{
-			"avatar": "http://192.168.88.67:8080/static/image/user11@2x.png",
+			"avatar": "static/image/user11@2x.png",
 			"name": "Harriett Salazar",
 			"desc": "共100次访问 赞赏11次 收藏7次",
 			"showChecked": true,
 			"isOnline": false
 		},
 		{
-			"avatar": "http://192.168.88.67:8080/static/image/user1@2x.png",
+			"avatar": "static/image/user1@2x.png",
 			"name": "Calvin Shelton",
 			"desc": "What about day trip from Moscow?",
 			"showChecked": true,
 			"isOnline": true
 		},
 		{
-			"avatar": "http://192.168.88.67:8080/static/image/user7@2x.png",
+			"avatar": "static/image/user7@2x.png",
 			"name": "Margaret Wong",
 			"desc": "Check me out too if you like m …",
 			"showChecked": true,
@@ -174,28 +174,28 @@ module.exports = {
 	],
 	"mediumGpData": [
 		{
-			"avatar": "http://192.168.88.67:8080/static/image/user2@2x.png",
+			"avatar": "static/image/user2@2x.png",
 			"name": "Christian Carson",
 			"desc": "I really want info on how to be …",
 			"showOption": true,
 			"isOnline": true
 		},
 		{
-			"avatar": "http://192.168.88.67:8080/static/image/user11@2x.png",
+			"avatar": "static/image/user11@2x.png",
 			"name": "Marian Wilkerson",
 			"desc": "Lebron teaching him how to ge…",
 			"showOption": true,
 			"isOnline": true
 		},
 		{
-			"avatar": "http://192.168.88.67:8080/static/image/user1@2x.png",
+			"avatar": "static/image/user1@2x.png",
 			"name": "Calvin Shelton",
 			"desc": "What about day trip from Moscow?",
 			"showOption": true,
 			"isOnline": false
 		},
 		{
-			"avatar": "http://192.168.88.67:8080/static/image/user7@2x.png",
+			"avatar": "static/image/user7@2x.png",
 			"name": "Margaret Wong",
 			"desc": "Check me out too if you like m …",
 			"showOption": true,
@@ -204,14 +204,14 @@ module.exports = {
 	],
 	"recommendApplyData": [
 		{
-			"avatar": "http://192.168.88.67:8080/static/image/user2@2x.png",
+			"avatar": "static/image/user2@2x.png",
 			"name": "Margaret Wong",
 			"desc": "等待完成录音访谈",
 			"showChecked": true,
 			"isOnline": true
 		},
 		{
-			"avatar": "http://192.168.88.67:8080/static/image/user11@2x.png",
+			"avatar": "static/image/user11@2x.png",
 			"name": "Calvin Shelton",
 			"desc": "What about day trip from Moscow?",
 			"showChecked": true,
@@ -220,21 +220,21 @@ module.exports = {
 	],
 	"recommendListData": [
 		{
-			"avatar": "http://192.168.88.67:8080/static/image/user2@2x.png",
+			"avatar": "static/image/user2@2x.png",
 			"name": "Ranx",
 			"desc": "共100次访问 赞赏11次 共计￥288",
 			"showOption": true,
 			"isOnline": true
 		},
 		{
-			"avatar": "http://192.168.88.67:8080/static/image/user1@2x.png",
+			"avatar": "static/image/user1@2x.png",
 			"name": "Marian Wilkerson",
 			"desc": "Lebron teaching him how to ge…",
 			"showOption": true,
 			"isOnline": false
 		},
 		{
-			"avatar": "http://192.168.88.67:8080/static/image/user5@2x.png",
+			"avatar": "static/image/user5@2x.png",
 			"name": "Christian Carson",
 			"desc": "I really want info on how to be …",
 			"showOption": true,
@@ -245,7 +245,7 @@ module.exports = {
 		{
 			"name": "莉莉安",
 			"age": 22,
-			"avatar": "static/image/Recommender1@2x.png",
+			"avatar": "static/image/Recommender1@2x.jpg",
 			"address": "北京",
 			"tags": [
 				"IT行业",
@@ -259,7 +259,7 @@ module.exports = {
 		{
 			"name": "莉莉周",
 			"age": 22,
-			"avatar": "static/image/Recommender2@2x.png",
+			"avatar": "static/image/Recommender2@2x.jpg",
 			"address": "北京",
 			"tags": [
 				"IT行业",
@@ -273,7 +273,7 @@ module.exports = {
 		{
 			"name": "莉莉西",
 			"age": 21,
-			"avatar": "static/image/Recommender1@2x.png",
+			"avatar": "static/image/Recommender1@2x.jpg",
 			"address": "北京",
 			"tags": [
 				"IT行业",
@@ -287,7 +287,7 @@ module.exports = {
 		{
 			"name": "丽丽",
 			"age": 27,
-			"avatar": "static/image/Recommender2@2x.png",
+			"avatar": "static/image/Recommender2@2x.jpg",
 			"address": "山东",
 			"tags": [
 				"IT行业",
@@ -5754,7 +5754,19 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
   return _c('div', {
     staticClass: "profile-container"
-  }, [_vm._m(0), _vm._v(" "), _c('div', {
+  }, [_c('div', {
+    staticClass: "profile-header-container"
+  }, [_c('div', {
+    staticClass: "profile-top"
+  }, [_c('h2', {
+    staticClass: "profile-title"
+  }, [_vm._v("个人主页")]), _vm._v(" "), _c('img', {
+    staticClass: "user-image",
+    attrs: {
+      "src": __webpack_require__(432),
+      "alt": "用户头像"
+    }
+  })]), _vm._v(" "), _vm._m(0)]), _vm._v(" "), _c('div', {
     staticClass: "tab-container"
   }, [_c('div', {
     staticClass: "tab-header"
@@ -5818,18 +5830,6 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
   }, [_vm._v("解锁开启搭线功能")])])])])])
 },staticRenderFns: [function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
   return _c('div', {
-    staticClass: "profile-header-container"
-  }, [_c('div', {
-    staticClass: "profile-top"
-  }, [_c('h2', {
-    staticClass: "profile-title"
-  }, [_vm._v("个人主页")]), _vm._v(" "), _c('img', {
-    staticClass: "user-image",
-    attrs: {
-      "src": __webpack_require__(432),
-      "alt": "用户头像"
-    }
-  })]), _vm._v(" "), _c('div', {
     staticClass: "profile-bottom"
   }, [_c('span', {
     staticClass: "name"
@@ -5843,7 +5843,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     staticClass: "icon-star-empty"
   })]), _vm._v(" "), _c('span', {
     staticClass: "collect-text"
-  }, [_c('em', [_vm._v("45")]), _vm._v("人收藏了他")])])])])
+  }, [_c('em', [_vm._v("45")]), _vm._v("人收藏了他")])])])
 },function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
   return _c('div', {
     staticClass: "profile-info-item"
@@ -6860,4 +6860,4 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 
 /***/ })
 ]),[165]);
-//# sourceMappingURL=app.b91a982674557f57fdfe.js.map
+//# sourceMappingURL=app.fe6ae09fbabe35595f19.js.map
