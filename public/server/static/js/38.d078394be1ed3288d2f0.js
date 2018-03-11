@@ -1,0 +1,1 @@
+webpackJsonp([38],{"/Umg":function(e,t){},tQQ7:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("client_complain_batch_query")])},staticRenderFns:[]};var c=n("Z0/y")({},r,!1,function(e){n("/Umg")},null,null);t.default=c.exports}});

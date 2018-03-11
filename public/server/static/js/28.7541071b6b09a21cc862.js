@@ -1,0 +1,1 @@
+webpackJsonp([28],{"88tE":function(t,e){},n74p:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var r={render:function(){var t=this.$createElement;return(this._self._c||t)("div",[this._v("summary_stastic_1_2")])},staticRenderFns:[]};var s=n("Z0/y")({},r,!1,function(t){n("88tE")},null,null);e.default=s.exports}});

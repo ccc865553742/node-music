@@ -1,0 +1,1 @@
+webpackJsonp([36],{XfnK:function(e,n){},rIvG:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("review")])},staticRenderFns:[]};var i=t("Z0/y")({},r,!1,function(e){t("XfnK")},null,null);n.default=i.exports}});

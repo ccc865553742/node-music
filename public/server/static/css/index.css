@@ -1,0 +1,87 @@
+.down_link, .is_link {
+  display: inline-block;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.down_link:hover {
+  color:#1976D2;
+}
+
+.is_link:hover {
+  background: rgba(0,0,0,.1);
+  color: rgba(255,255,255,.7);
+}
+
+.menu_icon {
+  margin-right: 15px;
+}
+
+.el-menu-item.is-active {
+  font-weight: 700;
+}
+
+.el-submenu__title {
+  display: flex;
+  align-items: center;
+}
+
+.single_menu .menu_icon{
+  margin-right: 10px;
+}
+.el-badge__content.is-fixed {
+  right: 18px;
+  top:5px;
+}
+
+.el-header {
+  padding: 0;
+  padding-right:20px;
+  box-shadow: 10px 10px 999px #000;
+}
+
+.text-success {
+  color: #7cb342;
+}
+.text-warning {
+  color: #ffa000;
+}
+.text-primary {
+  color: #2196f3;
+}
+.text-danger {
+  color:#e53935;
+}
+
+.el-dialog {
+  border-radius: 10px;
+  box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
+}
+
+.el-menu {
+  border:none;
+}
+
+/* 反转图标 */
+/* .reverse-icon {
+  padding: 10px;
+  border-radius: 20px;
+  color: #222;
+  font-size: 12px;
+  transition: all 0.3s;
+}
+.reverse-icon:hover {
+  background: #efefe2;
+}
+
+.open-state {
+  transform: rotate(180deg);
+}
+
+.toggle-enter-active, .toggle-leave-active {
+  transition: height .3s ease-in-out;
+  height: 0;
+}
+.toggle-enter, .toggle-leave-to {
+  height: 100%;
+} */
