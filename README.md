@@ -42,3 +42,5 @@ For more information about using Node.js on Heroku, see these Dev Center article
 ${html_url}
 
 https://github.com/cjfff/node-music/issues/12
+
+https://github.com/cjfff/node-music/issues/13
